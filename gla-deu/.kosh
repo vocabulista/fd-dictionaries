@@ -1,0 +1,3 @@
+[gla_deu]
+files: ["gla-deu.tei"]
+schema: freedict_mapping.json

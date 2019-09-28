@@ -1,0 +1,22 @@
+{
+   "mappings": {
+      "_meta": {
+         "_xpaths": {
+            "id": "None",
+            "root": "//tei:entry",
+            "fields": {
+               "lemma": "./tei:form/tei:orth",
+               "[translation]": ".//tei:sense/tei:cit[@type='trans']/tei:quote"
+            }
+         }
+      },
+      "properties": {
+         "lemma": {
+            "type": "keyword"
+         },
+         "translation": {
+            "type": "keyword"
+         }
+      }
+   }
+}

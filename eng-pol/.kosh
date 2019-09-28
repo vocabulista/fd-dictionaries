@@ -1,0 +1,3 @@
+[eng_pol]
+files: ["eng-pol.tei"]
+schema: freedict_mapping.json

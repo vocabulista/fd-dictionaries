@@ -1,0 +1,3 @@
+[hrv_eng]
+files: ["hrv-eng.tei"]
+schema: freedict_mapping.json

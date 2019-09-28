@@ -1,0 +1,3 @@
+[nld_fra]
+files: ["nld-fra.tei"]
+schema: freedict_mapping.json

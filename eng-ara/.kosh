@@ -1,0 +1,3 @@
+[eng_ara]
+files: ["eng-ara.tei"]
+schema: freedict_mapping.json

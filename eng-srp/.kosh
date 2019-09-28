@@ -1,0 +1,3 @@
+[eng_srp]
+files: ["eng-srp.tei"]
+schema: freedict_mapping.json

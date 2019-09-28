@@ -1,0 +1,3 @@
+[bre_fra]
+files: ["bre-fra.tei"]
+schema: freedict_mapping.json

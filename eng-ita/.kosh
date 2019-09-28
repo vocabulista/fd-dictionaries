@@ -1,0 +1,3 @@
+[eng_ita]
+files: ["eng-ita.tei"]
+schema: freedict_mapping.json

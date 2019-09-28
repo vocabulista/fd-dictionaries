@@ -1,0 +1,3 @@
+[eng_dan]
+files: ["eng-dan.tei"]
+schema: freedict_mapping.json

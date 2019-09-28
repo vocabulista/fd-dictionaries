@@ -1,0 +1,3 @@
+[swh_pol]
+files: ["swh-pol.tei"]
+schema: freedict_mapping.json

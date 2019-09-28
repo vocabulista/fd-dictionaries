@@ -1,0 +1,3 @@
+[swh_eng]
+files: ["swh-eng.tei"]
+schema: freedict_mapping.json

@@ -1,0 +1,3 @@
+[eng_rus]
+files: ["eng-rus.tei"]
+schema: freedict_mapping.json

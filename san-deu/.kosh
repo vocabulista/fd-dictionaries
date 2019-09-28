@@ -1,0 +1,3 @@
+[san_deu]
+files: ["san-deu.tei"]
+schema: freedict_mapping.json

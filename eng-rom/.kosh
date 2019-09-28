@@ -1,0 +1,3 @@
+[eng_rom]
+files: ["eng-rom.tei"]
+schema: freedict_mapping.json

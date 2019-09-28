@@ -1,0 +1,3 @@
+[jpn_rus]
+files: ["jpn-rus.tei"]
+schema: freedict_mapping.json

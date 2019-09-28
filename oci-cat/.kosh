@@ -1,0 +1,3 @@
+[oci_cat]
+files: ["oci-cat.tei"]
+schema: freedict_mapping.json

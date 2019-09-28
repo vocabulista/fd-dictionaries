@@ -1,0 +1,3 @@
+[spa_por]
+files: ["spa-por.tei"]
+schema: freedict_mapping.json

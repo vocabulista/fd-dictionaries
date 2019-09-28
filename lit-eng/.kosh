@@ -1,0 +1,3 @@
+[lit_eng]
+files: ["lit-eng.tei"]
+schema: freedict_mapping.json

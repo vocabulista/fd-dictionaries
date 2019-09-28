@@ -1,0 +1,3 @@
+[wol_fra]
+files: ["wol-fra.tei"]
+schema: freedict_mapping.json

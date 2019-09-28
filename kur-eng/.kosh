@@ -1,0 +1,3 @@
+[kur_eng]
+files: ["kur-eng.tei"]
+schema: freedict_mapping.json

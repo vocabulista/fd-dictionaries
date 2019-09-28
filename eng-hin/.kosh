@@ -1,0 +1,3 @@
+[eng_hin]
+files: ["eng-hin.tei"]
+schema: freedict_mapping.json

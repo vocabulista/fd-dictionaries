@@ -1,0 +1,3 @@
+[deu_nld]
+files: ["deu-nld.tei"]
+schema: freedict_mapping.json

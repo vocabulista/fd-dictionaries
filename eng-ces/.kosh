@@ -1,0 +1,3 @@
+[eng_ces]
+files: ["eng-ces.tei"]
+schema: freedict_mapping.json

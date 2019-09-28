@@ -1,0 +1,3 @@
+[eng_ell]
+files: ["eng-ell.tei"]
+schema: freedict_mapping.json

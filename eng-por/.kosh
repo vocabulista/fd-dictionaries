@@ -1,0 +1,3 @@
+[eng_por]
+files: ["eng-por.tei"]
+schema: freedict_mapping.json

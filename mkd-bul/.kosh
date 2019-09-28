@@ -1,0 +1,3 @@
+[mkd_bul]
+files: ["mkd-bul.tei"]
+schema: freedict_mapping.json
