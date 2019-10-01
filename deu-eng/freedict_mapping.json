@@ -6,16 +6,20 @@
             "root": "//tei:entry",
             "fields": {
                "lemma": "./tei:form/tei:orth",
+               "pron": "./tei:form/tei:pron",
                "[translation]": ".//tei:sense/tei:cit[@type='trans']/tei:quote"
             }
          }
       },
       "properties": {
          "lemma": {
-            "type": "keyword"
+            "type": "text"
+         },
+         "pron":{
+            "type":"keyword"
          },
          "translation": {
-            "type": "keyword"
+            "type": "text"
          }
       }
    }
