@@ -5,7 +5,7 @@
             "id": "./@id",
             "root": "//tei:entry",
             "fields": {
-               "lemma": "./tei:form/tei:orth",
+               "[lemma]": "./tei:form/tei:orth",
                "pos": "./tei:gramGrp/tei:pos",
                "pos_subc": "./tei:gramGrp/tei:subc",
                "[translation]": "./tei:sense/tei:def",
