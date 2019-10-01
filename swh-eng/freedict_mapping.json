@@ -2,11 +2,14 @@
    "mappings": {
       "_meta": {
          "_xpaths": {
-            "id": "None",
+            "id": "./@id",
             "root": "//tei:entry",
             "fields": {
                "lemma": "./tei:form/tei:orth",
-               "[translation]": ".//tei:sense/tei:cit[@type='trans']/tei:quote"
+               "pos": "./tei:gramGrp/tei:pos",
+               "pos_subc": "./tei:gramGrp/tei:subc",
+               "[translation]": "./tei:sense/tei:def",
+               "[xr]": "./tei:xr/tei:ref/@target"
             }
          }
       },
@@ -14,7 +17,16 @@
          "lemma": {
             "type": "keyword"
          },
+         "pos": {
+            "type": "text"
+         }, 
+         "pos_subc": {
+            "type": "text"
+         }, 
          "translation": {
+            "type": "text"
+         }, 
+         "xr": {
             "type": "keyword"
          }
       }
