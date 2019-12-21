@@ -1,0 +1,3 @@
+[kha_deu]
+files: ["kha-deu.tei"]
+schema: kha-deu_schema.json

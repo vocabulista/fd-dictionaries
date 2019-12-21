@@ -1,0 +1,3 @@
+[afr_eng]
+files: ["afr-eng.tei"]
+schema: afr-eng_schema.json

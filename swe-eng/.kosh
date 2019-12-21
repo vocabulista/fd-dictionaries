@@ -1,0 +1,3 @@
+[swe_eng]
+files: ["swe-eng.tei"]
+schema: swe-eng_schema.json

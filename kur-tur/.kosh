@@ -1,0 +1,3 @@
+[kur_tur]
+files: ["kur-tur.tei"]
+schema: kur-tur_schema.json

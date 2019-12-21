@@ -1,0 +1,3 @@
+[tur_deu]
+files: ["tur-deu.tei"]
+schema: tur-deu_schema.json

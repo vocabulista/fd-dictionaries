@@ -1,0 +1,3 @@
+[deu_eng]
+files: ["deu-eng.tei"]
+schema: deu-eng_schema.json

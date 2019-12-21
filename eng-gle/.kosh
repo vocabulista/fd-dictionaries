@@ -1,0 +1,3 @@
+[eng_gle]
+files: ["eng-gle.tei"]
+schema: eng-gle_schema.json

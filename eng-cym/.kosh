@@ -1,0 +1,3 @@
+[eng_cym]
+files: ["eng-cym.tei"]
+schema: eng-cym_schema.json

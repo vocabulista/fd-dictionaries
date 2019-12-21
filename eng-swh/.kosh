@@ -1,0 +1,3 @@
+[eng_swh]
+files: ["eng-swh.tei"]
+schema: eng-swh_schema.json

@@ -1,0 +1,3 @@
+[ita_deu]
+files: ["ita-deu.tei"]
+schema: ita-deu_schema.json

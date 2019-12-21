@@ -1,0 +1,3 @@
+[san_deu]
+files: ["san-deu.tei"]
+schema: san-deu_schema.json

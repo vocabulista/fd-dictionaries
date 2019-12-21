@@ -1,0 +1,3 @@
+[nld_deu]
+files: ["nld-deu.tei"]
+schema: nld-deu_schema.json

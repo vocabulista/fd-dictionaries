@@ -1,0 +1,3 @@
+[jpn_fra]
+files: ["jpn-fra.tei"]
+schema: jpn-fra_schema.json

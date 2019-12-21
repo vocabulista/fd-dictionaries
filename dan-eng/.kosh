@@ -1,0 +1,3 @@
+[dan_eng]
+files: ["dan-eng.tei"]
+schema: dan-eng_schema.json

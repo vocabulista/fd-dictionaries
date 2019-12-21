@@ -1,0 +1,3 @@
+[por_eng]
+files: ["por-eng.tei"]
+schema: por-eng_schema.json

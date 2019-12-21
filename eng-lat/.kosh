@@ -1,0 +1,3 @@
+[eng_lat]
+files: ["eng-lat.tei"]
+schema: eng-lat_schema.json

@@ -1,0 +1,3 @@
+[jpn_eng]
+files: ["jpn-eng.tei"]
+schema: jpn-eng_schema.json

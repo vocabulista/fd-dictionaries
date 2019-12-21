@@ -1,0 +1,3 @@
+[spa_ast]
+files: ["spa-ast.tei"]
+schema: spa-ast_schema.json

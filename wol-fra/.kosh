@@ -1,0 +1,3 @@
+[wol_fra]
+files: ["wol-fra.tei"]
+schema: wol-fra_schema.json

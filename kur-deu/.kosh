@@ -1,0 +1,3 @@
+[kur_deu]
+files: ["kur-deu.tei"]
+schema: kur-deu_schema.json

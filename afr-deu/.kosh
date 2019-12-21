@@ -1,0 +1,3 @@
+[afr_deu]
+files: ["afr-deu.tei"]
+schema: afr-deu_schema.json

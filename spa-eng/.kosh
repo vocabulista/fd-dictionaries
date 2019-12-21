@@ -1,0 +1,3 @@
+[spa_eng]
+files: ["spa-eng.tei"]
+schema: spa-eng_schema.json

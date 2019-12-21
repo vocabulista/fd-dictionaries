@@ -1,0 +1,3 @@
+[lat_eng]
+files: ["lat-eng.tei"]
+schema: lat-eng_schema.json
